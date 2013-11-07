@@ -206,7 +206,7 @@ function renderFitbitConfigurationDialog() {
   var helpLabel = app
       .createLabel("From here you will configure access to fitbit -- Just supply your own"
           + "consumer key and secret \n\n"
-          + "Important:  To authroize this app you need to load the script in the script editor"
+          + "Important:  To authorize this app you need to load the script in the script editor"
           + " (tools->Script Manager) and then run the 'authorize' script.");
   helpLabel.setStyleAttribute("text-align", "justify");
   helpLabel.setWidth("95%");
